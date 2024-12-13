@@ -43,7 +43,7 @@ def puzzle_2(input_path):
     
     return sim_score
 
-input_path = r"C:\Users\jakem\OneDrive\Documents\Coding Projects\advent_code\2024\Day 1\input.txt"
+input_path = r"2024/Day1/input.txt"
 print("Puzzle 1: " + str(puzzle_1(input_path)))
 print("Puzzle 2: " + str(puzzle_2(input_path)))
 

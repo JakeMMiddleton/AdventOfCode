@@ -132,7 +132,7 @@ def puzzle2(input_path):
 
 
 
-path = r"C:\Users\jakem\OneDrive\Documents\Coding Projects\advent_code\2024\Day 2\input.txt"
+path = r"2024/Day2/input.txt"
 #print(puzzle1(path))
 num_safe_reports, report_analysis = puzzle2(path)
 print(report_analysis)
